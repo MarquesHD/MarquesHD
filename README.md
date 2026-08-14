@@ -9,14 +9,14 @@
 
 Desenvolvedor focado em criar soluções práticas para o dia a dia. Meus projetos são desenvolvidos para automatizar tarefas e facilitar processos operacionais, sempre com o objetivo de otimizar o trabalho no escritório e no comércio.
 
-### 💼 O que eu faço
+### O que eu faço
 - Desenvolvimento de sistemas para automação de tarefas
 - Criação de ferramentas para gestão de estoque e finanças
 - Soluções para digitalização e organização de documentos
 
 ---
 
-## 🛠️ Tecnologias que Utilizo
+## Tecnologias que Utilizo
 
 | Tecnologia | Nível |
 |------------|-------|
@@ -28,9 +28,9 @@ Desenvolvedor focado em criar soluções práticas para o dia a dia. Meus projet
 
 ---
 
-## 📁 Projetos em Destaque
+## Projetos em Destaque
 
-### 🤖 Scanner Contínuo Samsung M4070FR
+### Scanner Contínuo Samsung M4070FR
 
 <img width="819" height="747" alt="image" src="https://github.com/user-attachments/assets/f043f11e-8ddb-457c-9ac6-0c21b3d4b785" />
 
@@ -48,7 +48,7 @@ Aplicação para digitalizar documentos diretamente da impressora Samsung M4070F
 
 ---
 
-### 📊 Contador de Caixa
+### Contador de Caixa
 Sistema simples para fechamento de caixa e contagem de cédulas e moedas.
 
 <img width="1242" height="815" alt="image" src="https://github.com/user-attachments/assets/0062f602-40c7-4f46-ab49-687b67987470" />
@@ -65,7 +65,7 @@ Sistema simples para fechamento de caixa e contagem de cédulas e moedas.
 
 ---
 
-### 📄 PDF Editor & Organizer
+### PDF Editor & Organizer
 Editor de páginas para mesclar PDFs e imagens, reorganizar e excluir páginas.
 
 <img width="1305" height="787" alt="image" src="https://github.com/user-attachments/assets/3bf8244d-ab19-4244-8f8a-7dbe366df1a2" />
@@ -84,7 +84,7 @@ Editor de páginas para mesclar PDFs e imagens, reorganizar e excluir páginas.
 
 ---
 
-### 📦 Gestor de Estoque
+### Gestor de Estoque
 Sistema para controle e gerenciamento de estoque, desenvolvido para otimizar a gestão de produtos.
 
 **Tecnologias:** [Tecnologias utilizadas]
@@ -99,14 +99,14 @@ Sistema para controle e gerenciamento de estoque, desenvolvido para otimizar a g
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarquesHD&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesHD&layout=compact&theme=dark)
 
 ---
 
-## 🏆 Contribuições Recentes
+## Contribuições Recentes
 
 - **[Scanner Contínuo Samsung M4070FR](link)** - Atualização da interface e correção de bugs
 - **[Gestor de Estoque](link)** - Implementação de novas funcionalidades
@@ -114,11 +114,11 @@ Sistema para controle e gerenciamento de estoque, desenvolvido para otimizar a g
 
 ---
 
-## 📫 Contato
+## Contato
 
 ---
 
-## 📌 Projetos em Desenvolvimento
+## Projetos em Desenvolvimento
 
 - [ ] Sistema de gestão financeira completo
 - [ ] Aplicativo mobile para gestão de estoque
@@ -126,7 +126,7 @@ Sistema para controle e gerenciamento de estoque, desenvolvido para otimizar a g
 
 ---
 
-**⭐ Se você gostou dos meus projetos, considere dar uma estrela!**
+**Se você gostou dos meus projetos, considere dar uma estrela!**
 
 ---
 
