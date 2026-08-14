@@ -31,6 +31,9 @@ Desenvolvedor focado em criar soluções práticas para o dia a dia. Meus projet
 ## 📁 Projetos em Destaque
 
 ### 🤖 Scanner Contínuo Samsung M4070FR
+
+<img width="819" height="747" alt="image" src="https://github.com/user-attachments/assets/f043f11e-8ddb-457c-9ac6-0c21b3d4b785" />
+
 Aplicação para digitalizar documentos diretamente da impressora Samsung M4070FR, com suporte a múltiplas páginas em um único PDF.
 
 **Tecnologias:** Python, customtkinter, WIA
@@ -41,12 +44,14 @@ Aplicação para digitalizar documentos diretamente da impressora Samsung M4070F
 - Interface intuitiva com tema claro/escuro
 - Geração de executável para uso sem Python
 
-[🔗 Ver Repositório](link-do-repositorio)
+[🔗 Ver Repositório](https://github.com/MarquesHD/Scanner-continuo-da-impressora-Samsumg-M4070FR)
 
 ---
 
 ### 📊 Contador de Caixa
 Sistema simples para fechamento de caixa e contagem de cédulas e moedas.
+
+<img width="1242" height="815" alt="image" src="https://github.com/user-attachments/assets/0062f602-40c7-4f46-ab49-687b67987470" />
 
 **Tecnologias:** HTML, CSS, JavaScript
 
@@ -56,12 +61,15 @@ Sistema simples para fechamento de caixa e contagem de cédulas e moedas.
 - Resumo detalhado do fechamento
 - Impressão do relatório
 
-[🔗 Ver Repositório](link-do-repositorio)
+[🔗 Ver Repositório](https://github.com/MarquesHD/Calculadora-de-Dinheiro)
 
 ---
 
 ### 📄 PDF Editor & Organizer
 Editor de páginas para mesclar PDFs e imagens, reorganizar e excluir páginas.
+
+<img width="1305" height="787" alt="image" src="https://github.com/user-attachments/assets/3bf8244d-ab19-4244-8f8a-7dbe366df1a2" />
+
 
 **Tecnologias:** HTML, CSS, JavaScript, PDF.js, jsPDF, html2canvas
 
@@ -72,7 +80,7 @@ Editor de páginas para mesclar PDFs e imagens, reorganizar e excluir páginas.
 - Exclusão de páginas individuais
 - Exportação para PDF compactado
 
-[🔗 Ver Repositório](link-do-repositorio)
+[🔗 Ver Repositório](https://github.com/MarquesHD/Imagens-para-PDF)
 
 ---
 
