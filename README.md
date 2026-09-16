@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32311558/README.md)
+
 <div align="center">
 
 <img src="./assets/header.svg" width="100%" alt="MarquesHD — automação, sistemas e pentest de redes" />
